@@ -38,7 +38,6 @@ const Home = () => {
                 </div>
              </div>
            ))}
-           {JSON.stringify(api)}
         </div>
         </div>
     );
